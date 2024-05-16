@@ -1,0 +1,2 @@
+VIAL_ENABLE = yes
+VIAL_INSECURE = yes

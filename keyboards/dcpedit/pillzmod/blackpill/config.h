@@ -15,4 +15,5 @@
 #define STARTUP_SONG SONG(STARTUP_SOUND)
 #endif
 
-#define MK_KINETIC_SPEED
+#define LED_LAYER_PIN A2
+#define LED_ACTIVE_LOW

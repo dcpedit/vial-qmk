@@ -1,6 +1,6 @@
 # TKLish
 
-![TKLish](https://i.imgur.com/gqx2FZW.jpg)
+![TKLish keyboards](https://i.imgur.com/pxLNHCd.jpeg)
 
 The TKLish PCB mimics the look of a TKL layout
 
